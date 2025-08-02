@@ -53,11 +53,6 @@ Simulated data based on real AML indicators:
 
 ---
 
-## 📄 Case Study
-
-📎 [Download PDF Summary](KYC_Client_Risk_Dashboard_Case_Study.pdf)
-
----
 
 ## 💡 About the Author
 
